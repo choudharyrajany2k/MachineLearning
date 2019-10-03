@@ -1,0 +1,12 @@
+----------------------
+Naive Bayes Algorithm
+-----------------------
+for Sentiment analysis
+Using term frequncy representation - count the number of instances for a particular word in the tuple of weights of words.
+Now we have numerical represenatation of the commnet.
+
+calculate probability score of each word in comment - mark it as positive or negative
+
+ignore stop words - a, an , the e.t.c 
+
+used when the dataset is very less in number
