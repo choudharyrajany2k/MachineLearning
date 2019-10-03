@@ -1,0 +1,41 @@
+https://techdifferences.com/difference-between-classification-and-clustering.html
+classification 
+------------------
+	- classes are know before classification is done e.g wether a mail is a spam or not a spam
+	- This requires training i.e supervised learning
+	examples for algorithms - 
+		-naive bayes, 
+		-Support vector algorithms, 
+		-decision tree, 
+		-neural networks, 
+		-logistic regression,
+		-Random forests
+		-K nearest Neighbors
+	classification prolems
+		- Spam Detection -  spam or ham ?
+		- Sentiment Ananlysis -  positive sentiment or negative sentiment
+		-Trading Strategy- Up day or Down Day
+		
+Training data -  a set of data where the class is already known. 
+
+Sentimental analysis - ploarity of the comment
+    
+ - Term frequency represenatation -used for represting a unsturtured data with the help of orld of words .like tweets e.t.c
+-----------------
+ QuantTrade
+	-  Is a trade day or not.
+ ---------
+ Ad or Non Ad
+ Image Features - hosting url, ad url , height , width
+ --------------
+ Customer behaviour
+ Customer churn(stop using the service or continue the service) fraud detection, crdit risk
+	
+	
+---------------------------	
+clustering
+--------------
+	- classes are not known. The identification for a particular cluster happens based on the attributes e.g classify a group of animals species. a mammale, reptile, bird e.t.c
+	- This is unsupervised learning.
+	examples - k-mean, k-medoids, density based, hierarchical e.t.c
+  
