@@ -38,4 +38,10 @@ clustering
 	- classes are not known. The identification for a particular cluster happens based on the attributes e.g classify a group of animals species. a mammale, reptile, bird e.t.c
 	- This is unsupervised learning.
 	examples - k-mean, k-medoids, density based, hierarchical e.t.c
+	
+--------------------------------------------
+
+Why do we need preprocessing?
+ - during cleaning it may turn out that the problem at hand is not a ML problem
+ - for more accuracy
   
