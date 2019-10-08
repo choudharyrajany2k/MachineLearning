@@ -1,0 +1,13 @@
+what is autocorelation?
+
+COrelation - the relationship between two variables in a time series data
+Auto Corelation -  the relation ship between the values of variables at the present time and past time.
+
+value at time t  -  p
+value at time t-k  =  k
+
+so the relationship between p and k is called as autocorelation.
+The value of auto corelation is -1 and 1.
+1 is perfect positive corelation  - completly corelated
+-1 perfect negative corelation -  No relation
+
