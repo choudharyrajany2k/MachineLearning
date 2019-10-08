@@ -1,0 +1,26 @@
+             0  ---------> these are called outliers aka fliers
+					   0
+					  
+					  
+					  
+					    |
+              |
+        ______|_______  B
+        |           |
+        |           |
+				|           |
+				|           |
+				|           |
+				|___________|
+				|           |
+				|           |
+				|           |
+				|           |
+				|___________|  A
+               |
+               |
+               |
+					  
+point A to B show the 25% to 75 % of the numbers in the distribution.
+tails on the top and bottom is called "Whiskers".
+The middle line shows the median of the distribution		  
